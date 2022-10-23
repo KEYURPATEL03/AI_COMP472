@@ -2,9 +2,9 @@
 Mini-project-1
 
 done by:
-  -> Nirmal Ghinaiya 40154801
-  ->Keyur Patel 40154883
-  ->Nareg Mouradian 40044254
+  1)Nirmal Ghinaiya 40154801
+  2)Keyur Patel 40154883
+  3)Nareg Mouradian 40044254
 
 To run the entire code, user will need to download scikit-learn, numpy, nltk and gensim libraries. 
 
