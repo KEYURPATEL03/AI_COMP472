@@ -1,4 +1,7 @@
 # AI_COMP472
+
+URL of github: https://github.com/KEYURPATEL03/AI_COMP472
+
 Mini-project-1
 
 done by:
